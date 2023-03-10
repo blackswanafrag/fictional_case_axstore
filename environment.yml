@@ -1,0 +1,11 @@
+name: association_store
+channels:
+  - conda-forge
+dependencies:
+  - jupyter=1.0.0
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - mlxtend
